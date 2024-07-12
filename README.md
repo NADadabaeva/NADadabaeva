@@ -1,4 +1,14 @@
-## Hi there 👋
+<div id="header"align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="300" alt="main gif">
+<h1 align='center'>Добро пожаловать в мой профиль! 👋 </h1>
+</div>
+
+
+## 📫 Контакты для связи:
+<div id="badges"> 
+  <a href="https://t.me/dd_nat" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white alt='telegram'"/>
+
 
 <!--
 **NADadabaeva/NADadabaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
