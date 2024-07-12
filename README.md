@@ -13,35 +13,20 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
----
 
 ### :hammer_and_wrench: Инструменты и навыки.
 
-#### Тестирование веб-приложений:
+#### :globe_with_meridians: Тестирование веб-приложений:
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
-#### Работа с базами данных:
+#### :cd: Работа с базами данных:
 
-#### Работа с документацией:
+#### :pencil: Работа с документацией:
 
-#### Языки программирования:
+#### :hammer: Языки программирования:
 
-#### Работа с кодом:
+#### :computer: Работа с кодом:
 
-<!--
-**NADadabaeva/NADadabaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
