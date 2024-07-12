@@ -23,10 +23,36 @@
 </div>
 
 #### :cd: Работа с базами данных:
+<div>
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+</div>
 
 #### :pencil: Работа с документацией:
 
-#### :hammer: Языки программирования:
-
 #### :computer: Работа с кодом:
+<div>
+  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" title="VS_Code" alt="VS_Code" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452210/git.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+</div>
+
+#### :hammer: Языки:
+<div>
+    <figure class="sign">
+      <figcaption><b>Программирование</b></figcaption>
+      <p><img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" alt="Python" width="40" height="40"/></p>
+    </figure>
+    <figure class="sign">
+      <figcaption><b>Запросы</b></figcaption>
+      <p><img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" title="SQL" alt="SQL" width="40" height="40"/></p>
+    </figure>
+  <figure class="sign">
+    <figcaption><b>Разметка</b></figcaption>
+    <p><img src="https://www.svgrepo.com/show/353884/html-5.svg" title="HTML" alt="HTML" width="40" height="40"/></p>
+  </figure>
+  <figure class="sign">
+    <figcaption><b>Стили</b></figcaption>
+    <p><img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" title="CSS" alt="CSS" width="40" height="40"/></p>
+  </figure>
+</div>
+
 
