@@ -1,6 +1,6 @@
 <div id="header"align="left">
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="300" alt="main gif">
-  <h1>Добро пожаловать в мой профиль! 👋 </h1>
+  <h1>Добро пожаловать в мой профиль! </h1>
 </div>
 
 ### :woman_technologist: Обо мне: 
