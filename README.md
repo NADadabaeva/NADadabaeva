@@ -3,8 +3,9 @@
   <h1>Добро пожаловать в мой профиль! 👋 </h1>
 </div>
 
-### :woman_technologist: Обо мне:
-:email: Контакты для связи:
+### :woman_technologist: Обо мне: 
+
+#### :email: Контакты для связи:
 <div id="badges">
   <a href="https://t.me/dd_nat" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram" />
@@ -28,14 +29,19 @@
 </div>
 
 #### :pencil: Работа с документацией:
+<div>
+  <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://chlist.sitechco.ru/img/favicon/32x32/favicon.ico" title="Sitechco" alt="Sitechco" width="40" height="40"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idAnDTFapY/idFdbEywEz.svg?updated=1720164005494" title="Miro" alt="Miro" width="40" height="40"/>&nbsp;
+</div>
 
-#### :computer: Работа с кодом:
+#### :hammer: Работа с кодом:
 <div>
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" title="VS_Code" alt="VS_Code" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
 </div>
 
-#### :hammer: Языки:
+#### :computer: Языки:
 <div>
     <figure class="sign">
       <figcaption><b>Программирование</b></figcaption>
