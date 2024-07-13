@@ -30,8 +30,9 @@
 
 #### :pencil: Работа с документацией:
 <div>
-  <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://chlist.sitechco.ru/img/favicon/32x32/favicon.ico" title="Sitechco" alt="Sitechco" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://www.redmine.org/attachments/download/3462/redmine_fluid_icon.png" title="Redmine" alt="Redmine" width="40" height="40"/>&nbsp;
   <img src="https://asset.brandfetch.io/idAnDTFapY/idFdbEywEz.svg?updated=1720164005494" title="Miro" alt="Miro" width="40" height="40"/>&nbsp;
 </div>
 
