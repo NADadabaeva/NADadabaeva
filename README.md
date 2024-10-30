@@ -10,8 +10,8 @@
   <a href="https://t.me/dd_nat" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram" />
   </a>
-  <a href="mailto:dadabaeva.natalya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="gmail" />
+  <a href="mailto:dadabaeva.natalya@ya.ru" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=Pdt19CVXcXKo&format=png&color=000000" alt="YandexMail" width="40" height="40"/>
   </a>
 </div>
 
